@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128523838007",
+    "project_id": "chatapp-idan",
+    "storage_bucket": "chatapp-idan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128523838007:android:c0b7c99882da7c74e6d5b2",
+        "android_client_info": {
+          "package_name": "com.example.chatapp_idan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128523838007-1mchk53c0375g3ui8b8r8q50fl7fl1pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0KDg4uQ43RH3Zeju361d8Cycat9IiGFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128523838007-1mchk53c0375g3ui8b8r8q50fl7fl1pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
