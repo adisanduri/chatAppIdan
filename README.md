@@ -17,8 +17,6 @@ This is a mobile application for chat functionality, developed in Java using And
 1. Clone the repository to your local machine:
 https://github.com/adisanduri/chatAppIdan.git
 
-Replace `<repository_url>` with the URL of your repository.
-
 2. Open the project in Android Studio.
 
 3. Set up Firebase project and configure your project's Firebase credentials in the app.
